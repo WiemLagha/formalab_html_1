@@ -4,11 +4,14 @@
 }
 .parableu{
     color:blue;
-    background-color: rgba(255,0,0,0.5);
+    background-color: rgba(255,0,0,0.2);
+    opacity: 0.3;
+    
 }
 #parared{
     color:red;
     opacity: 0.3;
+    border-bottom: aqua;
 }
 .bleu{
     color:bleu;
@@ -36,4 +39,8 @@ a:hover{
 a:visited{
     color:gray;
     
+}
+html{
+   /* background-color: rgba(255,0,0,0.2);*/
+   background-image: url(../images/téléchargement.jpg);
 }
