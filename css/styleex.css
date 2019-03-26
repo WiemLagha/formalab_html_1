@@ -1,0 +1,12 @@
+#section1{
+    height: 100px;
+    background-color: #FF6600;
+}
+#section2{
+    height: 700px;
+    background-image: url("../images/forma.jpg");
+}
+#section3{
+    height: 100px;
+    background-color: #4c4d4c
+}
