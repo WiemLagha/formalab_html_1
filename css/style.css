@@ -12,6 +12,8 @@
 }
 p.vert{
     color:green;
+    text-align: right;
+
 }
 .vt{
     color: green;
@@ -29,4 +31,5 @@ a:hover{
 }
 a:visited{
     color:gray;
+    
 }
