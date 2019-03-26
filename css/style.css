@@ -1,11 +1,14 @@
 *{
     color:red;
+    
 }
 .parableu{
     color:blue;
+    background-color: rgba(255,0,0,0.5);
 }
 #parared{
     color:red;
+    opacity: 0.3;
 }
 .bleu{
     color:bleu;
@@ -17,6 +20,7 @@ p.vert{
 }
 .vt{
     color: green;
+    
 }
 .bord{
     border: 1px solid green;
