@@ -19,3 +19,14 @@ p.vert{
 .bord{
     border: 1px solid green;
 }
+a{
+    color: red;
+    text-decoration: none;
+}
+a:hover{
+    color:green;
+    text-decoration: underline;
+}
+a:visited{
+    color:gray;
+}
