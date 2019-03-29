@@ -1,3 +1,12 @@
 alert('hello world!');
 var x=2;
 document.write("Type de x:"+typeof x);
+var h="5";
+document.write(h+1);
+document.write("<br/>");
+h=Number("5");
+document.write(h+1);
+var num=15;
+var n=num.toString();
+document.write(typeof num);
+document.write("7aja ma 5latech 3liha");
